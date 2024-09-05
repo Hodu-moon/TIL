@@ -8,6 +8,13 @@
 
 [Builder](https://github.com/Hodu-moon/Daily_Study/tree/main/builder)
 
+
+## 알고리즘
+
+[Generic을 사용한 BubbleSort] (https://github.com/Hodu-moon/Daily_Study/tree/main/BubbleSort)
+
+
+
 ### 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
 
