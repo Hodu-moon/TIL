@@ -1,4 +1,4 @@
-## BUbble Sort
+## Bubble Sort
 
 Generic을 사용해서 구현하였다.
 
