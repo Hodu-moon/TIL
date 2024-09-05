@@ -8,6 +8,8 @@
 
 [Builder](https://github.com/Hodu-moon/Daily_Study/tree/main/builder)
 
+[Singleton과 Prototpye 리포지토리](https://github.com/Hodu-moon/Daily_Study/tree/main/repository)
+
 
 ## 알고리즘
 
