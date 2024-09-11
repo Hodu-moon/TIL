@@ -36,3 +36,6 @@ Set에는 추가된다.
 그러므로 hashcode가 같으면 객체가 같을수도 있고 다를수도 있다.
 
 hashcode가 같으면 equals()를 한다는 말은 hashSet으로 테스트해보면 알 수 있다. 
+
+# hashcode와 equals를 같이 오버라이드 해야하는 이유
+hashcode가 같으면 같은 객체인지 확인하려고
