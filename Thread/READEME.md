@@ -152,3 +152,10 @@ blocked queue랑 wait queue랑 다르다.
 - `BlockingQueue`와 같은 스레드 안전한 데이터 구조를 사용하여 스레드 간 데이터를 교환하는 방법을 이해한다.
   → 복잡하고 어려움 .
 
+
+  ---
+## Semaphore and Mutex
+
+semaphore -> 여러개의 쓰레드가 접근 가능
+Mutex -> 한개의 쓰레드만 접근가능 
+
