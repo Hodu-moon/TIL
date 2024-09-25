@@ -159,7 +159,3 @@ blocked queue랑 wait queue랑 다르다.
 semaphore -> 여러개의 쓰레드가 접근 가능
 Mutex -> 한개의 쓰레드만 접근가능 
 
----
-## ThreadLocal
-Thread 마다 독립적인 변수를 가질수 있게 해준다. 
-
