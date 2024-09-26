@@ -22,6 +22,7 @@ List<Response>list = new ArrayList<>();
 list.add(new ResponseA());
 list.add(new ResponseB());
 ...
+
 ```
 
 reflection을 사용했을 때
