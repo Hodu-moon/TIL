@@ -18,6 +18,22 @@ Java doc에서 살펴보면 A Thread-safe, mutable sequence of characters.
 
 StringBuffer와 하는 역할은 똑같은데 thread-safety하지 않다.
 
+## 써야하는 상황
+
+Server - client 환경에서 StringBuffer나 StringBuilder를 쓰면 이점이 무엇일까. 
+
+네트워크의 연결을 tcp로 한다고 가정하자. 클라이언트가 서버를 
+```
+h
+e
+l
+l
+o
+```
+라고 의도적으로 보내면 서버는 tcp 3way-handshake나 다른 부가적인 작업을 5번 해야한다.
+
+하지만 버퍼를 넣어서 hello로 보내면 자원을 절약할 수 있다. 
+
 
 
 ## 결론
