@@ -11,7 +11,32 @@ Reflection API는 런타임에 classpath를 스캔하여 클래스, 메소드, �
 특정 타입의 서브타입들을 가져오기 등이 가능해짐
 
 
+## OCP
+변경에는 열려있고 수정에는 닫혀있는 원칙을 잘 지킨 코드이다. 
 
+Response type을 모두 list에 추가하는 작업을 한다고 생각해보자.
+
+reflection을 사용하지 않았을 때
+```
+List<Response>list = new ArrayList<>();
+list.add(new ResponseA());
+list.add(new ResponseB());
+...
+```
+
+reflection을 사용했을 때
+```
+Reflections reflections = new Reflections("package");
+Set<Class<? extends Response>> clazz = reflections.subtype ...
+
+for(Class<? extends Response>> class : clazz){
+  list.add(class> 
+}
+
+```
+
+
+이렇게 하면 Response타입의 구현체가 추가되도 코드의 수정은 이루어지지 않고 변경에는 자유롭다. 
 
 
 
