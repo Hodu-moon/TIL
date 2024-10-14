@@ -1,0 +1,88 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 1000px;
+}
+
+.first{
+    justify-content: flex-start;
+}
+
+.about{
+    flex-direction: column;
+    width: 690px;
+}
+
+.img{
+    width: 300px;
+    height: 200px;
+    margin: 10px 10px 0 0;
+}
+
+
+.about hr{
+    width: 100%;
+}
+
+.second{
+    justify-content: flex-start;
+}
+
+.name{
+    flex-direction: column;
+    background: #40c5cc;
+    color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.edu{
+    flex-direction: column;
+    width: 480px;
+    height: 150px;
+}
+
+.edu > h1{
+    font-size:20pt;
+}
+
+.edu > p{
+    font-size: 8pt;
+}
+hr{
+    width: 100%;
+    border-color: #40c5cc;
+}
+
+.skill{
+    flex-direction: column;
+    background: #0b3b3a;
+    width: 275px;
+    height: 550px;
+    color: white;
+}
+
+
+.material-icons{
+    color: #40c5cc;
+    margin-left: 40px;
+    width: 29px;
+    height: 29px;
+}
+
+#skillH1{
+    color:#40c5cc ;
+    margin-left: 40px ;
+}
+
+.experience{
+    flex-direction: column;
+    width:690px;
+    margin-left: 35px;
+}
+
