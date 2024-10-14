@@ -21,6 +21,8 @@
 
 [Generic을 사용한 BubbleSort](https://github.com/Hodu-moon/Daily_Study/tree/main/BubbleSort)
 
+[Insertion sort](https://github.com/Hodu-moon/Daily_Study/tree/main/insertionSort)
+
 
 
 ### 그외
