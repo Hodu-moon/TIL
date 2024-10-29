@@ -44,3 +44,24 @@ with recursive t3 id, t3.parent_id, t3.name  AS (
 select * from t3;
     
 ```
+
+## 동작방식
+
+먼저 anchor 역할이 필요하다. 
+
+```sql
+    select t1.id, t1.parent_id, t1.name
+    from category t1
+    where t1.parent_id = null
+```
+이부분이 t3 으로 들어간다.
+
+그 후 밑에 
+
+```sql
+    select t2.id, t2.parent_id, t2.name
+    from category t2
+    inner join t3 on t2.parent_id = t3.id
+```
+
+부분을 반복하면서 종료조건 즉 t2가 아무 자식을 가지지 않을 때 까지 반복한다.
