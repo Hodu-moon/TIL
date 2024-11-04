@@ -12,6 +12,8 @@
 
 [Singleton과 Prototpye 리포지토리](https://github.com/Hodu-moon/Daily_Study/tree/main/repository)
 
+[Factory pattern](https://github.com/Hodu-moon/Daily_Study/tree/main/factory_pattern)
+
 ### 자주 쓰는 Pattern
 
 [Producer and Consumer patter](https://github.com/Hodu-moon/Daily_Study/tree/main/producerAndConsumer)
