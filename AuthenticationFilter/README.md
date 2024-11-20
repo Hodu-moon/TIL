@@ -17,7 +17,7 @@
 
 우리가 갈아치울 부분은 UserDetailsService이다.
 
-## 구현
+## DetailsService 구현
 이름을 받고 UserDetails를 DetailsService를 DB로 바꿔보겠다.
 
 ### DetailsService
