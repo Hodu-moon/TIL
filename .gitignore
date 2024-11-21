@@ -5,3 +5,4 @@ Test.java
 **.DS_Store
 .idea
 *.iml
+**/out
