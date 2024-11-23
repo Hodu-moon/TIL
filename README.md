@@ -45,6 +45,10 @@
 
 [Rest Controller](https://github.com/Hodu-moon/Daily_Study/tree/main/RestController)
 
+### DB
+
+[Redis - RedisTemplate, Serializer] (https://github.com/Hodu-moon/Daily_Study/tree/main/redis)
+
 
 
 ### Spring Security
