@@ -54,6 +54,8 @@
 ### Spring Security
 [AuthenticationFilter](https://github.com/Hodu-moon/Daily_Study/blob/main/AuthenticationFilter/README.md)
 
+[Security Config, Login Customizing, Too many requiest](https://github.com/Hodu-moon/Daily_Study/tree/main/spring-security-config)
+
 
 ## 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
