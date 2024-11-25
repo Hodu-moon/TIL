@@ -49,7 +49,7 @@
 
 [Content Negotiation - parameter, accept header](https://github.com/Hodu-moon/Daily_Study/tree/main/content-negotiation)
 
-[RestControllerAdvice](https://github.com/Hodu-moon/Daily_Study/tree/main/restcontroller-advice)
+[Rest Controller Advice](https://github.com/Hodu-moon/Daily_Study/tree/main/restcontroller-advice)
 
 ### DB
 
