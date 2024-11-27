@@ -66,6 +66,8 @@
 
 [Enum - ORDINAL, STRING](https://github.com/Hodu-moon/Daily_Study/tree/main/jpa-enum)
 
+[Querydsl spring boot, maven config](https://github.com/Hodu-moon/Daily_Study/tree/main/query_dsl_config)
+
 
 ## 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
