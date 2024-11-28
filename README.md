@@ -68,6 +68,8 @@
 
 [Querydsl spring boot, maven config](https://github.com/Hodu-moon/Daily_Study/tree/main/query_dsl_config)
 
+[개발 시 create table보다 data.sql 이 먼저 실행될 때 defer](https://github.com/Hodu-moon/Daily_Study/tree/main/defer-datasource)
+
 
 ## 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
