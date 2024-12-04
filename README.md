@@ -70,6 +70,9 @@
 
 [개발 시 create table보다 data.sql 이 먼저 실행될 때 defer](https://github.com/Hodu-moon/Daily_Study/tree/main/defer-datasource)
 
+## CI/CD
+[CI/CD ](https://github.com/Hodu-moon/Daily_Study/tree/main/CI_CD)
+
 
 ## 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
