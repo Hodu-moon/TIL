@@ -39,6 +39,8 @@ spring boot에서 lombok을 사용하는 일이 많다.
 
 ```
 
+참고 : https://stackoverflow.com/questions/79256929/lombok-annotations-not-working-in-spring-boot-project-java-21
+
 
 > 진짜 2시간 걸렸는데 허무하네 
 
