@@ -55,6 +55,7 @@
 
 [Redis - RedisTemplate, Serializer](https://github.com/Hodu-moon/Daily_Study/tree/main/redis)
 
+[varchar , text 차이 ](https://github.com/Hodu-moon/Daily_Study/tree/main/varchar_text)
 
 
 ### Spring Security
