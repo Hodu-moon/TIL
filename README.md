@@ -82,6 +82,10 @@
 
 [git projects 일정 관리 - 시작시간,종료시간, 칸반보드 delay  ]()https://github.com/Hodu-moon/Daily_Study/tree/main/github-projects
 
+## jwt
+
+[jwt token을 발급받은 후 헤더에 넣어주는 방법, spring security processing url - x-www-urlencoded ](https://github.com/Hodu-moon/Daily_Study/tree/main/jwt-spring-security-fetch)
+
 
 ## 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
