@@ -95,6 +95,10 @@
 [layout 참고 ](https://github.com/ultraq/thymeleaf-layout-dialect)
 
 
+## 책
+
+[라이브 북 (영문) 뭔가 많음](https://livebook.manning.com/)
+
 ## 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
 
