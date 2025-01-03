@@ -86,6 +86,8 @@
 
 [jwt token을 발급받은 후 헤더에 넣어주는 방법, spring security processing url - x-www-urlencoded ](https://github.com/Hodu-moon/Daily_Study/tree/main/jwt-spring-security-fetch)
 
+[프로젝트에서 jwt 발급](https://github.com/Hodu-moon/Daily_Study/tree/main/jwt)
+
 ## Eureka
 
 [Eureka 설정법 ](https://github.com/Hodu-moon/Daily_Study/tree/main/eureka-config)
