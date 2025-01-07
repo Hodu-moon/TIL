@@ -2,7 +2,8 @@
 
 ![img.png](resources/img.png)
 
-github -> actions -> java with maven
+github -> actions -> java with maven 
+
 
 
 ## code
@@ -40,7 +41,7 @@ jobs:
 ```
 
 
-## 환경 변수 등록
+## 환경 변수 등록하기
 
 ```shell
 SSH_ID  : nhnacademy
