@@ -109,7 +109,7 @@ mvn sonar:sonar \
 -Dsonar.login={toekn}
 ```
 
-Action -> repository secret
+Action -> repository secret 설정하기 
 
 ```shell
 SONAR_HOST : {ip}
