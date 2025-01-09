@@ -117,7 +117,7 @@ SONAR_TOKEN : {토큰}
 ```
 
 
-maven.yml
+maven.yml 파일 설정
 ```shell
     - name : Run SonarQube
       run : mvn sonar:sonar -Dsonar.projectKey=github-action -Dsonar.host.url=${{secrets.SONAR_HOST}} -Dsonar.login=${{secrets.SONAR_TOKEN}}
