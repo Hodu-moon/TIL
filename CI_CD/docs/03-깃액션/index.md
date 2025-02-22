@@ -2,7 +2,8 @@
 
 ![img.png](resources/img.png)
 
-github -> actions -> java with maven
+github -> actions -> java with maven 
+
 
 
 ## code
@@ -40,7 +41,7 @@ jobs:
 ```
 
 
-## 환경 변수 등록
+## 환경 변수 등록하기
 
 ```shell
 SSH_ID  : nhnacademy
@@ -108,7 +109,7 @@ mvn sonar:sonar \
 -Dsonar.login={toekn}
 ```
 
-Action -> repository secret
+Action -> repository secret 설정하기 
 
 ```shell
 SONAR_HOST : {ip}
@@ -116,7 +117,7 @@ SONAR_TOKEN : {토큰}
 ```
 
 
-maven.yml
+maven.yml 파일 설정
 ```shell
     - name : Run SonarQube
       run : mvn sonar:sonar -Dsonar.projectKey=github-action -Dsonar.host.url=${{secrets.SONAR_HOST}} -Dsonar.login=${{secrets.SONAR_TOKEN}}
@@ -127,6 +128,7 @@ maven.yml
 
 https://docs.github.com/ko/actions/writing-workflows/quickstart
 
-깃허브 액션 공식ㅂ문서임 
+
+깃허브 액션 공식문서임 ....
 
 
