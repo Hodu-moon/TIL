@@ -105,6 +105,7 @@ porcess는 일반적으로 program이 실행시킨 인스턴스
 같은 시각에 여러개의 프로그램을 실행하는 시분할 방식 -> 멀티태스킹
 
 
+
 new -> Ready -> Running -> Terminate
        Ready <- Running
             Blocked
