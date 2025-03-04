@@ -100,6 +100,9 @@ root로 되어있다면 확인바람
 
 ## sonar qube
 
+
+1
+
 sonar qube
 
 ```shell
