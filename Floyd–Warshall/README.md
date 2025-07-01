@@ -1,4 +1,4 @@
-```
+```java
 D[i][j] = 정점 i에서 정점 j 로의 최소 비용
 AllPairShortest(D[][])
 	for k in 1 -> n
