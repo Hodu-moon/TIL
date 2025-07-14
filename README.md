@@ -1,4 +1,6 @@
-# 공부했던 것들을 기록하는 저장소
+# Today I Learned
+
+Today I Learned : 하루 동안 한 일, 새로 배운 점, 아직 해결하지 못한 문제, 부족하거나 개선할 점 등을 정리한 간단한 문서(개발자 일기 같은거)
 
 ## 자료구조
 [List](https://github.com/Hodu-moon/Daily_Study/tree/main/List)
