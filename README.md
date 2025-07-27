@@ -78,6 +78,7 @@ Today I Learned : 하루 동안 한 일, 새로 배운 점, 아직 해결하지 
 
 [Security Config, Login Customizing, Too many requiest](https://github.com/Hodu-moon/Daily_Study/tree/main/spring-security-config)
 
+
 ### Spring Data JPA
 
 [Enum - ORDINAL, STRING](https://github.com/Hodu-moon/Daily_Study/tree/main/jpa-enum)
