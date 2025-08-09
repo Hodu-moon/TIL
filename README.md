@@ -41,7 +41,8 @@ Today I Learned : 하루 동안 한 일, 새로 배운 점, 아직 해결하지 
 [Floid Warshall](https://github.com/Hodu-moon/Daily_Study/tree/main/Floyd%E2%80%93Warshall)
 
 
-
+### 수학 
+[명제, 역, 이, 대우](https://github.com/Hodu-moon/TIL/tree/main/LogicAndProof)
 
 
 ## Spring boot
@@ -122,6 +123,7 @@ Today I Learned : 하루 동안 한 일, 새로 배운 점, 아직 해결하지 
 ## 💰금융권
 
 [용어 정리](https://github.com/Hodu-moon/TIL/blob/main/financial/README.md)
+
 
 ## 그외
 [File 입출력](https://github.com/Hodu-moon/Daily_Study/tree/main/File)
