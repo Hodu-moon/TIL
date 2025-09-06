@@ -8,6 +8,7 @@ Today I Learned : 하루 동안 한 일, 새로 배운 점, 아직 해결하지 
 1. WebSocket
 2. HTTPS
 3. WEBRTC
+4. gitlab-runner
    
 
 
